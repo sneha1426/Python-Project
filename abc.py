@@ -1,1 +1,1 @@
-frs
+print("hello")
